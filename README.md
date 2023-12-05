@@ -1,5 +1,5 @@
 # task6
-[GitHub Repository](https://github.com/Youngdna/task6)
+[GitHub Repository](https://github.com/Youngdna19/task6.git)
 
 # Description
 This webpage acts as a resume and introduces me to the world effectively.This webpage shows more of my personality
